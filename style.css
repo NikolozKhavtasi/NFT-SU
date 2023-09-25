@@ -100,7 +100,7 @@ body {
 @media only screen and (max-width: 800px) {
     .img_m {
         width: 100% !important;
-        height: 232px !important;
+        height: 332px !important;
     }
     .div_CA_form {
         width: 315px !important;
@@ -133,7 +133,7 @@ body {
 
 .img_m {
     width: 44%;
-    height: 100%;
+    height: 780px;
 }
 
 .div_CA_form {
